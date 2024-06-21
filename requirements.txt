@@ -1,6 +1,5 @@
 streamlit
 graphviz
 typing
-heapq
 networkx
-matplotlib.pyplot
+matplotlib
