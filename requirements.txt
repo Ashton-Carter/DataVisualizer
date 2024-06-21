@@ -1,7 +1,6 @@
 streamlit
 graphviz
 typing
-time
 heapq
 networkx
 matplotlib.pyplot
