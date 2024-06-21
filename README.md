@@ -1,15 +1,16 @@
 # Data Visualizer
 
-Welcome to my data visualizer project.  I started this project to strengthen my understanding of different algorithms.  I am still working on implementing more algorithms but wanted to publish a beginning.
-
+Welcome to my Data Visualizer project. This initiative was undertaken to deepen my understanding of various algorithms. While the implementation of additional algorithms is ongoing, I wanted to share the initial version with you.
 
 ## Installation
+
+To set up the project, please follow these steps:
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/Ashton-Carter/DataVisualizer.git
-   cd DataVisualizer.git
+   cd DataVisualizer
    pip install -r requirements.txt
    streamlit run main.py
 
-
+Thank you for your interest in my project. I look forward to sharing further developments as they become available.
